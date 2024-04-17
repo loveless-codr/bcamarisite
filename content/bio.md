@@ -6,7 +6,7 @@ menu: main
 image: v1665042442/bcamari_uhfxdj.jpg
 ---
 
-![](https://res.cloudinary.com/ddkpk0u6d/image/upload/v1713146637/600x600bc_wzhdn5.jpg)
+![](https://res.cloudinary.com/ddkpk0u6d/image/upload/f_auto,q_70,w_auto/v1713146637/600x600bc_wzhdn5.jpg)
 
 _black trans enby rapper from the USA; based out of PDX. shoegazy, sometimes ambient trap/drill-esque vibes. cloud rap energy. been working since \~2014._
 
